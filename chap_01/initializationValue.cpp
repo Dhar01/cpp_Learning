@@ -16,6 +16,8 @@ int main()
 	 */
 
 	// brace initialization
+	// another name is: Uniform initialization
+	
 	int brace{ 5 };		// direct brace initialization (preferred)
 	int brace2 = { 5 };	// copy brace initialization
 

@@ -1,0 +1,1 @@
+constexpr int g_x{ 3 };

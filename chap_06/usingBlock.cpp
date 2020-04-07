@@ -11,6 +11,7 @@ int main()
         std::cout << value << " is a positive integer (or zero)\n";
         std::cout << "Double this number is " << value * 2 << '\n';
     }
+
     else
     {
         std::cout << value << " is a negative integer.\n";

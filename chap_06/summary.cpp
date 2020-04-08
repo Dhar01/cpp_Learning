@@ -21,3 +21,5 @@ extern const int g_x;   // constant global variable forward decalration
 
 // not allowed, constexpr cannot be forward declared
 extern constexpr int g_x;       // constexpr global variable forward declaration
+
+

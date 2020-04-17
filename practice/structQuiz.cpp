@@ -29,7 +29,7 @@ std::string getMonsterTypeString(Monster monster)
         return "Giant Spider";
     else if (monster.type == MonsterType::SLIME)
         return "Slime";
-    
+
     return "Unknown";
 }
 

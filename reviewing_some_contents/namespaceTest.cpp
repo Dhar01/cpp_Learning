@@ -16,6 +16,7 @@ namespace goo
     }
 }
 
+
 int main()
 {
     std::cout << foo::doSomething(4, 3) << '\n';

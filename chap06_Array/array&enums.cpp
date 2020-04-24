@@ -7,7 +7,7 @@ enum StudentNames
     STAN,
     BUTTERS,
     CARTMAN,
-    MAX_STUDENTS
+    MAX_STUDENTS,   // 5
 };
 
 int main()

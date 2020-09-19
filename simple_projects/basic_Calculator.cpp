@@ -29,7 +29,7 @@ char getOperator()
 {
     while(true)
     {
-        std::cout << "Enter one of the following: +, -, *, / : ";
+        std::cout << "Enter one of the following +, -, *, / : ";
         char operation{};
         std::cin >> operation;
 

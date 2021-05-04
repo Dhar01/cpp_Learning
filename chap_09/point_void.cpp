@@ -24,7 +24,7 @@ void printValue(void *ptr, Type type)
             break;
     }
 }
-
+ 
 int main()
 {
     int nValue{ 5 };

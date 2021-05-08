@@ -3,7 +3,9 @@
 
 /*
 Rock Paper Scissors Lizard Spock
-(The Big Bang Theory)
+(The Big Bang Theory) - Codecademy.
+
+I will work on it more later.
 */
 
 int main()
